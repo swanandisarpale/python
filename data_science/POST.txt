@@ -1,0 +1,6 @@
+In python for ML we need a data for traning ml mmodel, 
+ML algorithm requies clean formatted data so today we used pandas liberary to load 
+dataset from csv file but in that data some entries were missing we have to fill 
+those empty spaces cause ml algorithm accepts those vacent spaces as 0
+0 could fail the calculation and result poorly so we decided to use mean of that 
+perticular table to fill vacent spaces in the perticular column

@@ -1,0 +1,10 @@
+[
+  {"State Name": "Maharashtra", "City": "Mumbai", "Category": "Electronics", "Sales": 120000, "Orders": 240},
+  {"State Name": "Maharashtra", "City": "Pune", "Category": "Clothing", "Sales": 80000, "Orders": 180},
+  {"State Name": "Karnataka", "City": "Bangalore", "Category": "Electronics", "Sales": 150000, "Orders": 300},
+  {"State Name": "Karnataka", "City": "Mysore", "Category": "Furniture", "Sales": 60000, "Orders": 120},
+  {"State Name": "Gujarat", "City": "Ahmedabad", "Category": "Clothing", "Sales": 70000, "Orders": 160},
+  {"State Name": "Gujarat", "City": "Surat", "Category": "Textile", "Sales": 90000, "Orders": 200},
+  {"State Name": "Delhi", "City": "New Delhi", "Category": "Electronics", "Sales": 110000, "Orders": 220},
+  {"State Name": "Rajasthan", "City": "Jaipur", "Category": "Handicraft", "Sales": 50000, "Orders": 100}
+]
